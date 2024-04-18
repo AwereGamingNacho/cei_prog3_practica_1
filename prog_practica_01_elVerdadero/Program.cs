@@ -10,6 +10,8 @@ namespace Program
     {
         static void Main(string[] args)
         {
+            // Ejercicios
+
             // Nro. 1--
             //Console.WriteLine(esPrimo(2));
             //Nivel de complejidad cognitiva: [ 4 ]
